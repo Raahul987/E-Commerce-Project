@@ -1,0 +1,4 @@
+ADMIN001|Administrator|admin@ecommerce.com|admin123|0000000000|ADMIN
+ID-1|Raahul|raahul@gmail.com|raahul123|6374142251|CUSTOMER
+ID-2|Naveen|naveen@gmail.com|naveen@gmail.com|9874563215|CUSTOMER
+ID-3|Vishnu|vishnu@gmail.com|159753|9517534862|CUSTOMER

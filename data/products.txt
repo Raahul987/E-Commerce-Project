@@ -1,0 +1,5 @@
+P1001|Laptop|Electronics|55000.0|4|15 inch laptop
+P1002|Smartphone|Electronics|25000.0|20|Android smartphone
+P1003|Headphones|Accessories|1999.0|30|Wireless headphones
+P1004|Backpack|Fashion|1499.0|25|Daily-use backpack
+P1005|WaterBottles|Plastic items|100.0|50|Hard Plastic Longlasting
